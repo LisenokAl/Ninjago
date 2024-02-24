@@ -1,0 +1,46 @@
+<html>
+    <main>
+        <header>
+            <h1> Ninjago </h1>
+            <h2> Персонажи </h2>
+            <a> Локации </a>
+            <a> Персонажи </a>
+            <a> Предметы </a>
+        </header>
+        <body>
+            <article class="Llo"> 
+                <h3> Ллойд </h3>
+                <p>Ллойд Монтгомери Гармадон - зелёный и единственный ниндзя, который перешёл со злой стороны на добрую. </p>
+                <img src="https://poster-maxs.ru/upload/resize_cache/iblock/6f1/400_400_140cd750bba9870f18aada2478b24840a/6f180ff964d4699ca7d0ac955fe01a4c.jpg">
+            </article>
+            <article class="kay"> 
+                <h3> Кай </h3>
+                <p>Кай — мастер Огня и красный ниндзя, старший брат Нии. Кай стал Мастером Кружитцу, сражаясь с Серпентинами и Каменной армией и прочими. </p>
+                <img class="imgk" src="https://www.lego.com/cdn/cs/set/assets/blt580171024319af81/ninjago_CP_KAI_1Hero-Tall-Large.jpg?fit=crop&format=jpg&quality=80&width=1600&height=1000&dpr=1">
+            </article>
+            <article class="nya"> 
+                <h3> Ния </h3>
+                <p>Ния — мастер воды, сестра Кая и ян Джея. Она была названа в честь Нияд, первого Мастера Стихии Воды. </p>
+                <img class="imgn" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqnGb7Lbid8ZhZYvxbOoGYzt0CbZYTk-8lZxfLTkccgRwi-Y1jKKmrx081arG7SLhwFk&usqp=CAU">
+            </article>
+            <article class="ze"> 
+                <h3> Зейн </h3>
+                <p> Зейн — нынешний Мастер Льда и Титановый ниндзя, а также первый созданный Ниндроид. Зейн обучался у Мастера Ву, он изучил Кружитцу. </p>
+                <img class="imgz" src="https://contigr.ru/upload/iblock/10a/konstruktor_lego_ninjago_zeyn_master_kruzhittsu_1_p63_5.jpg">
+            </article>
+            <article class="jay"> 
+                <h3> Джей </h3>
+                <p> Джей Уокер (урождённый Джеем Гордоном) — нынешний Мастер Молнии и Cиний ниндзя. Он обучался у Мастера Ву, чтобы стать ниндзя вместе с Коулом, Каем, Зейном, Ллойдом и Нией. </p>
+                <img class="imgz" src="https://catalog.detmir.st/media/YgZmyXVupncvW8HWXz4XdvCTc9_PW652Vy51biMGby8=?preset=site_product_gallery_r1500">
+            </article>
+            <article class="Lord"> 
+                <h3 class="two"> Лорд Гармадон </h3>
+                <p> Лорд Гармадон — влаcтолюбивый Мастер Разрушения и возрождённая злая форма бывшего наставника Ниндзя, Мастера Гармадона.</p>
+                <img class="imgl" src="https://w7.pngwing.com/pngs/23/280/png-transparent-lloyd-garmadon-lord-garmadon-sensei-wu-youtube-film-lego-ninjago-movie-poster-lord-garmadon-lego-ninjago-masters-of-spinjitzu-thumbnail.png">
+            </article>
+        </body>
+        <footer>
+            <p> Приветь! Я Алёна. Эт всё. </p>
+        </footer>
+    </main>
+</html>
