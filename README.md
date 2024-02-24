@@ -1,1 +1,1 @@
-# Ninjago-persons
+# Ninjago
