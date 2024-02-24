@@ -1,0 +1,36 @@
+<html>
+    <main>
+        <header>
+            <h1> Ninjago </h1>
+            <h2> Локации </h2>
+            <a> Локации </a>
+            <a> Персонажи </a>
+            <a> Предметы </a>
+        </header>
+        <body>
+            <article class="Llo"> 
+                <h3> Остров Ниндзяго </h3>
+                <p> Ниндзяго — одно из Шестнадцати миров, которые можно пройти. Проклятый Мир и Джиндзяго были двумя мирами, но теперь они уничтожены. </p>
+                <img class="img1" src="https://sun9-63.userapi.com/impf/c631728/v631728239/204d6/NoqQTRlkw2E.jpg?size=640x640&quality=96&sign=bcf1fc5470724d6e7e452976b0489206&c_uniq_tag=at24JZatkDn0xx1_Otw0XFV3cf98OLSFPqiScFty-vY&type=album">
+            </article>
+            <article class="nya"> 
+                <h3> Берёзовая Роща </h3>
+                <p> Берёзовая Роща (Берёзовый лес) — заснеженный густой лес, недалеко от Ледяных Пустошей, где долгое время жил Доктор Джульен ("отец" Зейна). </p>
+                <img class="img1" src="https://i.ytimg.com/vi/eP3d_g-f9bk/sddefault.jpg">
+            </article>
+            <article class="ze"> 
+                <h3> Ниндзяго-сити </h3>
+                <p> Ниндзяго-Сити (Нью-Ниндзяго-Сити) — столица Ниндзяго. Столицу основал Первый Мастер Кружитцу, как и само Ниндзяго. </p>
+                <img class="img1" src="https://i.pinimg.com/1200x/f4/5e/d8/f45ed8e9759eea9ff03c7f607f73fe64.jpg">
+            </article>
+            <article class="Lord"> 
+                <h3 class="two"> Башня Ниндзяго </h3>
+                <p> Башня Ниндзяго — это структура, которая появляется в The LEGO Ninjago Movie. Похоже, это что-то вроде Ратуши Ниндзяго Сити, потому что там находится мэрия. </p>
+                <img class="img1" src="https://cdn-3.cinemaparadiso.co.uk/film-stills/2089050-80271-still-720.jpg">
+            </article>
+        </body>
+        <footer>
+            <p> Приветь! Я Алёна. Эт всё. </p>
+        </footer>
+    </main>
+</html>
